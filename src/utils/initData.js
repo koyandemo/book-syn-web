@@ -2,8 +2,8 @@
 export const API_POINT ="https://book-syn-api.vercel.app/"
 // export const API_POINT = "http://localhost:5001/"
 // export const API_POINT = "http://localhost:5001/"
-// export const IMG_POINT ="https://booksites.github.io"
-export const IMG_POINT = "https://www.images.indexsyn.com"
+export const IMG_POINT ="https://booksites.github.io"
+// export const IMG_POINT = "https://www.images.indexsyn.com"
 export const FB_STORAGE_LINK = "https://firebasestorage.googleapis.com/v0/b/bs-app-52af1.appspot.com/o/"
 export const READER_LINK = "https://pg-touch.surge.sh/books/reading/"
 //3.82.19.52
