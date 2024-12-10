@@ -1,0 +1,80 @@
+.author-list-page {
+ width: 100%;
+ height: auto;
+ display: flex;
+ box-sizing: border-box;
+ padding-top: unset;
+ justify-content: center;
+ margin-top: 80px;
+ gap: 10px;
+}
+
+.author-list-container {
+ width: 800px;
+ display: flex;
+ align-items: center;
+ flex-direction: column;
+ box-sizing: border-box;
+}
+
+
+.author-list-items {
+ width: 100%;
+ display: grid;
+ justify-content: space-between;
+ height: auto;
+ gap: 10px;
+ grid-template-columns: repeat(auto-fit, minmax(150px, 150px));
+}
+
+@media screen and (max-width:1380px) {
+ .author-list-container {
+  width: 700px;
+ }
+}
+
+@media screen and (max-width:1260px) {
+ .author-list-page {
+  width: 60vw;
+  margin: auto;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+ }
+
+ .author-list-container {
+  width: inherit;
+ }
+
+ .ad-right {
+  display: none;
+ }
+}
+
+@media screen and (max-width:1250px) {
+ .author-list-page {
+  width: 70vw;
+ }
+}
+
+@media screen and (max-width:900px) {
+ .author-list-page {
+  width: 80vw;
+ }
+}
+
+@media screen and (max-width:790px) {
+ .author-list-page {
+  width: 90vw;
+ }
+}
+
+@media screen and (max-width:345px) {
+ .author-list-page {
+  width: 90vw;
+ }
+
+ .author-list-items {
+  justify-content: center;
+ }
+}

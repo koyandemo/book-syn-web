@@ -1,0 +1,62 @@
+.error-handling{
+ height: 80vh;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ gap: 100px;
+}
+
+.error-handling-title{
+ font-size: 200px;
+ line-height: 42px;
+ color: var(--colorTheme);
+}
+
+.error-handling-content {
+ font-size: 30px;
+ line-height: 42px;
+ color: var(--colorTheme);
+}
+
+.error-handling-actions{
+ display: flex;
+ gap: 30px;
+ justify-content: center;
+ align-items: center;
+}
+
+@media screen and (max-width:500px) {
+ .error-handling{
+  gap: 100px;
+ }
+ /* .error-handling-title{
+  font-size: 200px;
+ } */
+}
+
+@media screen and (max-width:350px) {
+ .error-handling {
+  gap: 100px;
+ }
+ .error-handling-title {
+  font-size: 150px;
+ }
+
+ .error-handling-content{
+  font-size: 20px;
+ }
+
+}
+
+@media screen and (max-width:250px) {
+ .error-handling {
+  gap: 80px;
+ }
+
+ .error-handling-title {
+  font-size: 80px;
+ }
+ 
+
+}

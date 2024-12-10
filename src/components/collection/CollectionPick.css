@@ -1,0 +1,25 @@
+.collection-pick {
+  transition: all .5;
+ min-width: 330px;
+ height: 150px;
+ box-sizing: border-box;
+ border-radius: var(--pick-radius);
+ border: 1px solid rgba(128, 128, 128, 0.233);
+}
+
+.collection-pick-img {
+ width: 330px;
+ height: 130px;
+ padding: 10px 0px;
+ box-sizing: border-box;
+ object-position:top;
+ object-fit: scale-down;
+ /* object-position: center; */
+ border-radius: 3px;
+ background-color: var(--bgTheme);
+ transition: all .5;
+}
+
+.collection-pick-img:hover{
+ zoom: 1.1;
+}

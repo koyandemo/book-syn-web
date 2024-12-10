@@ -1,0 +1,19 @@
+.pdf-viewer{
+ position: absolute;
+ inset: 0px;
+ background-color: whitesmoke;
+ display: flex;
+ flex-direction: column;
+}
+
+.pdf-viewer-container{
+ display: flex;
+ flex: 1 1 0%;
+}
+
+.pdf-viewer-index{
+ position: relative;
+ flex: 1 1 0%;
+ height: 100%;
+
+}

@@ -1,0 +1,41 @@
+.picks {
+ width: 100%;
+ display: flex;
+ align-items: flex-start;
+ flex-direction: column;
+ flex-wrap: wrap;
+ gap: var(--pick-gap);
+margin-bottom: var(--pick-pb);
+}
+
+.picks-title-warp {
+ width: inherit;
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+ color: black;
+}
+
+.picks-list {
+ position: relative;
+ display: flex;
+ align-items: flex-start;
+ width: 100%;
+ height: auto;
+ gap: var(--pick-gap);
+ overflow-x: scroll;
+ overflow-y: hidden;
+ scroll-behavior: smooth;
+ padding-bottom: var(--pick-pb);
+}
+
+.picks-list::-webkit-scrollbar {
+ width: var(--scroll-size);
+ height: var(--scroll-size);
+}
+
+.picks-list::-webkit-scrollbar-thumb {
+ border-radius: 10px;
+ width: var(--scroll-size);
+box-shadow: var(--scrollThumbShadow);
+}

@@ -1,0 +1,98 @@
+.book-mark-page {
+ width: 100%;
+ height: auto;
+ display: flex;
+ box-sizing: border-box;
+ padding-top: unset;
+ justify-content: center;
+ margin-top: 80px;
+ gap: 10px;
+}
+
+.book-mark-container {
+ width: 800px;
+ display: flex;
+ gap: 20px;
+ align-items: center;
+ flex-direction: column;
+ box-sizing: border-box;
+}
+
+.book-mark-card {
+ width: inherit;
+ height: 115px;
+ display: flex;
+ gap: 20px;
+ border: 1px solid rgba(128, 128, 128, 0.348);
+}
+
+.book-mark-card-img {
+ width: 80px;
+ height: 114px;
+ object-fit: cover;
+ overflow: hidden;
+}
+
+.book-mark-card-infos {
+ padding: 5px;
+
+}
+
+.book-mark-card-info {
+ margin-top: 10px;
+}
+
+.book-mark-card-info-item {
+ display: flex;
+ align-items: center;
+ gap: 5px;
+}
+
+.book-mark-card-info-item-key {
+ width: 110px;
+ font-size: 12px;
+ font-weight: 400;
+ padding: unset;
+ margin: unset;
+ color: var(--colorTheme);
+}
+
+.book-mark-card-info-item-value {
+ font-size: 12px;
+ font-weight: 800;
+ padding: unset;
+ margin: unset;
+ color: var(--colorTheme);
+}
+
+.book-mark-card-action {
+ font-size: 12px;
+ color: blue;
+ text-decoration: underline;
+}
+
+@media screen and (max-width:1380px) {
+ .book-mark-container {
+  width: 100%;
+  padding: 5px;
+ }
+}
+
+@media screen and (max-width:425px) {
+ .book-mark-card {
+  flex-direction: column;
+  border: none;
+  height: auto;
+  padding-bottom: 10px;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.348);
+ }
+}
+
+/* @media screen and (max-width:435px) {
+  .book-mark-card-infos{
+    min-width: 300px;
+    overflow-x:scroll ;
+  }
+
+
+} */

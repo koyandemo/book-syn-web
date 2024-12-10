@@ -1,0 +1,115 @@
+@font-face {
+  font-family: 'Catamaran';
+  src: url("./fonts/catamaran-Regular.ttf") format("woff");
+  font-weight: normal;
+}
+
+body {
+  margin: 0;
+  font-family: 'Shippori Mincho', serif;
+  /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif; */
+  /* font-family: 'Catamaran'; */
+  /* font-family: 'Oswald', sans-serif; */
+  /* font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif; */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--bgTheme);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+html {
+  --bgTheme: white;
+  --colorTheme: black;
+  --pick-gap: 15px;
+  --pick-pb: 35px;
+  --scroll-size: 5px;
+  --pick-radius: 5px;
+  --scrollThumbShadow: inset 0 0 6px rgba(128, 128, 128, 0.692);
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.overflow-y-hidde{
+  overflow-y: hidden;
+}
+
+.overflow-y-display{
+  overflow-y: visible;
+}
+
+h4 {
+  color: var(--colorTheme);
+}
+
+h5 {
+  color: var(--colorTheme);
+}
+
+.pb-unset {
+  padding-bottom: unset !important;
+}
+
+.whiteSpace-pre {
+  white-space: pre;
+}
+
+.ad-right {
+  position: fixed;
+  right: 0;
+  top: 50px;
+  width: 250px;
+  height: 100%;
+  background-color: var(--bgTheme);
+}
+
+.under-line {
+  text-decoration: underline;
+}
+
+a {
+  text-decoration: none;
+}
+
+.bs-btn {
+  width: 100%;
+  border: none;
+  background-color: cyan;
+  border-radius: 5px;
+  padding: 12px;
+  cursor: pointer;
+  background: #062548;
+  /* background: linear-gradient(to right, #BCE8CB, #2F82DF); */
+  /* background: linear-gradient(to right, #92C8FA, #062548); */
+  /* background: linear-gradient(to right, #7CD3BA, #2A71A1); */
+  font-size: 15px;
+  letter-spacing: 1px;
+  font-weight: 600;
+  color: white;
+}
+
+.w-50{
+  width: 50%!important;
+}
+
+.btn-disabled{
+  cursor: text!important;
+}
+
+.pointer{
+  cursor: pointer;
+}
+
+
+.web-layout{
+  display: block;
+  width: 100%;
+  height: auto;
+}

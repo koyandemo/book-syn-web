@@ -1,0 +1,24 @@
+.toolbar{
+ width: 100%;
+ height: 2.25rem;
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+ background-color: whitesmoke;
+ border-bottom-width:1px ;
+ border-bottom-color: rgba(128, 128, 128, 0.273);
+ position: sticky;
+ top: 0;
+ z-index: 10;
+ font-size: 0.75rem;
+  line-height: 1rem
+}
+
+.toolbar-actions{
+ padding-left: 0.25rem/* 4px */;
+ padding-right: 0.25rem/* 4px */;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+
+}

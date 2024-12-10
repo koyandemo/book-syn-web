@@ -1,0 +1,79 @@
+.book-list-page {
+ width: 100%;
+ height: auto;
+ display: flex;
+ box-sizing: border-box;
+ padding-top: unset;
+ justify-content: center;
+ margin-top: 80px;
+ gap: 10px;
+}
+
+.book-list-container {
+ width: 800px;
+ display: flex;
+ align-items: center;
+ flex-direction: column;
+ box-sizing: border-box;
+}
+
+.book-list-items {
+ width: 100%;
+ display: grid;
+ height: auto;
+ gap: 10px;
+ justify-content: space-between;
+ grid-template-columns: repeat(auto-fit, minmax(150px, 150px));
+}
+
+@media screen and (max-width:1380px) {
+ .book-list-container {
+  width: 700px;
+ }
+}
+
+@media screen and (max-width:1260px) {
+ .book-list-page {
+  width: 60vw;
+  margin: auto;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+ }
+
+ .book-list-container {
+  width: inherit;
+ }
+
+ .ad-right {
+  display: none;
+ }
+}
+
+@media screen and (max-width:1250px) {
+ .book-list-page {
+  width: 70vw;
+ }
+}
+
+@media screen and (max-width:900px) {
+ .book-list-page {
+  width: 80vw;
+ }
+}
+
+@media screen and (max-width:790px) {
+ .book-list-page {
+  width: 90vw;
+ }
+}
+
+@media screen and (max-width:345px) {
+ .book-list-page {
+  width: 90vw;
+ }
+
+ .book-list-items {
+  justify-content: center;
+ }
+}

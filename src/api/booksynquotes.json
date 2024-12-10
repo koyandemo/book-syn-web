@@ -1,0 +1,1529 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "quote": "The most damaging phrase in the language is.. it's always been done this way",
+      "author": "Grace Hopper"
+    },
+    {
+      "id": "2",
+      "quote": "The best error message is the one that never shows up.",
+      "author": "Thomas Fuchs"
+    },
+    {
+      "id": "3",
+      "quote": "Testing leads to failure, and failure leads to understanding.",
+      "author": "Burt Rutan"
+    },
+    {
+      "id": "4",
+      "quote": "A program that has not been tested does not work.",
+      "author": "Bjarne Stroustrup"
+    },
+    {
+      "id": "5",
+      "quote": "Sometimes it's better to leave something alone, to pause, and that's very true of programming.",
+      "author": "Joyce Wheeler"
+    },
+    {
+      "id": "6",
+      "quote": "The only way to learn a new programming language is by writing programs in it.",
+      "author": "Dennis Ritchie"
+    },
+    {
+      "id": "7",
+      "quote": "Programming isn't about what you know; it's about what you can figure out.",
+      "author": "Chris Pine"
+    },
+    {
+      "id": "8",
+      "quote": "Sometimes, it pays to stay in bed on Monday rather than spending the rest of the week debugging Monday's code.",
+      "author": "Dan Salomon"
+    },
+    {
+      "id": "9",
+      "quote": "I think Microsoft named .Net so it wouldn't show up in a Unix directory listing.",
+      "author": "Oktal"
+    },
+    {
+      "id": "10",
+      "quote": "Good software, like wine, takes time.",
+      "author": "Joel Spolsky"
+    },
+    {
+      "id": "11",
+      "quote": "Come to think of it, there are already a million monkeys on a million typewriters, and Usenet is nothing like Shakespeare.",
+      "author": "Blair Houghton"
+    },
+    {
+      "id": "12",
+      "quote": "The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.",
+      "author": "Henry Petroski"
+    },
+    {
+      "id": "13",
+      "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight.",
+      "author": "Bill Gates"
+    },
+    {
+      "id": "14",
+      "quote": "As soon as we started programming, we found to our surprise that it wasn't as easy to get programs right as we had thought.  Debugging had to be discovered.  I can remember the exact moment when I realized that a large part of my life from then on was going to be spent in finding mistakes in my own programs.",
+      "author": "Maurice Wilkes"
+    },
+    {
+      "id": "15",
+      "quote": "Object-oriented programming offers a sustainable way to write spaghetti code. It lets you accrete programs as a series of patches.",
+      "author": "Paul Graham"
+    },
+    {
+      "id": "16",
+      "quote": "Machines take me by surprise with great frequency.",
+      "author": "Alan Turing"
+    },
+    {
+      "id": "17",
+      "quote": "Laziness is a programmers main virtue.",
+      "author": "Larry Wall"
+    },
+    {
+      "id": "18",
+      "quote": "The best error message is the one that never shows up.",
+      "author": "Thomas Fuchs"
+    },
+    {
+      "id": "19",
+      "quote": "I'm not a great programmer; I'm just a good programmer with great habits.",
+      "author": "Kent Beck"
+    },
+    {
+      "id": "20",
+      "quote": "When to use iterative development? You should use iterative development only on projects that you want to succeed.",
+      "author": "Martin Fowler"
+    },
+    {
+      "id": "21",
+      "quote": "Deleted code is debugged code.",
+      "author": "Jeff Sickel"
+    },
+    {
+      "id": "22",
+      "quote": "First, solve the problem. Then, write the code.",
+      "author": "John Johnson"
+    },
+    {
+      "id": "23",
+      "quote": "Programming is not a science. Programming is a craft.",
+      "author": "Richard Stallman"
+    },
+    {
+      "id": "24",
+      "quote": "One of the main causes of the fall of the Roman Empire was that–lacking zero–they had no way to indicate successful termination of their C programs.",
+      "author": "Robert Firth."
+    },
+    {
+      "id": "25",
+      "quote": "It's not a bug; it's an undocumented feature.",
+      "author": "Anonymous"
+    },
+    {
+      "id": "26",
+      "quote": "First learn computer science and all the theory. Next, develop a programming style. Then forget all that and just hack.",
+      "author": "George Carrette"
+    },
+    {
+      "id": "27",
+      "quote": "I've finally learned what ‘upward compatible' means.  It means we get to keep all our old mistakes.",
+      "author": "Dennie van Tassel"
+    },
+    {
+      "id": "28",
+      "quote": "The only way to learn a new programming language is by writing programs in it.",
+      "author": "Dennis Ritchie"
+    },
+    {
+      "id": "29",
+      "quote": "PHP is a minor evil perpetrated and created by incompetent amateurs, whereas Perl is a great and insidious evil perpetrated by skilled but perverted professionals.",
+      "author": "Jon Ribbens"
+    },
+    {
+      "id": "30",
+      "quote": "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.",
+      "author": "Rick Cook"
+    },
+    {
+      "id": "31",
+      "quote": "Complexity kills.  It sucks the life out of developers, it makes products difficult to plan, build and test, it introduces security challenges, and it causes end-user and administrator frustration.",
+      "author": "Ray Ozzie"
+    },
+    {
+      "id": "32",
+      "quote": "There are only two kinds of programming languages: those people always bitch about and those nobody uses.",
+      "author": "Bjarne Stroustrup"
+    },
+    {
+      "id": "33",
+      "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+      "author": "Martin Fowler"
+    },
+    {
+      "id": "34",
+      "quote": "Programming isn't about what you know; it's about what you can figure out.",
+      "author": "Chris Pine"
+    },
+    {
+      "id": "35",
+      "quote": "Bad programmers worry about the code. Good programmers worry about data structures and their relationships.",
+      "author": "Linus Torvalds"
+    },
+    {
+      "id": "36",
+      "quote": "Walking on water and developing software from a specification are easy if both are frozen.",
+      "author": "Edward V. Berard"
+    },
+    {
+      "id": "37",
+      "quote": "That's the thing about people who think they hate computers. What they really hate is lousy programmers.",
+      "author": "Larry Niven"
+    },
+    {
+      "id": "38",
+      "quote": "Some of the best programming is done on paper. Putting it into the computer is just a minor detail.",
+      "author": "Max Kanat-Alexander"
+    },
+    {
+      "id": "39",
+      "quote": "The only people who have anything to fear from free software are those whose products are worth even less.",
+      "author": "David Emery"
+    },
+    {
+      "id": "40",
+      "quote": "Controlling complexity is the essence of computer programming.",
+      "author": "Brian Kernighan"
+    },
+    {
+      "id": "41",
+      "quote": "Coding like poetry should be short and concise.",
+      "author": "Santosh Kalwar"
+    },
+    {
+      "id": "42",
+      "quote": "It’s not a bug; it’s an undocumented feature.",
+      "author": "Anonymous"
+    },
+    {
+      "id": "43",
+      "quote": "First, solve the problem. Then, write the code.",
+      "author": "John Johnson"
+    },
+    {
+      "id": "44",
+      "quote": "Code is like humor. When you have to explain it, it’s bad.",
+      "author": "Cory House"
+    },
+    {
+      "id": "45",
+      "quote": "Make it work, make it right, make it fast.",
+      "author": "Kent Beck"
+    },
+    {
+      "id": "46",
+      "quote": "Clean code always looks like it was written by someone who cares.",
+      "author": "Robert C. Martin"
+    },
+    {
+      "id": "47",
+      "quote": "Of course, bad code can be cleaned up. But it’s very expensive.",
+      "author": "Robert C. Martin"
+    },
+    {
+      "id": "48",
+      "quote": "Programming is the art of algorithm design and the craft of debugging errant code.",
+      "author": "Ellen Ullman"
+    },
+    {
+      "id": "49",
+      "quote": "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.",
+      "author": "Rick Cook"
+    },
+    {
+      "id": "50",
+      "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+      "author": "Martin Fowler"
+    },
+    {
+      "id": "51",
+      "quote": "Experience is the name everyone gives to their mistakes.",
+      "author": "Oscar Wilde"
+    },
+    {
+      "id": "52",
+      "quote": "Programming is the art of telling another human being what one wants the computer to do.",
+      "author": "Donald Ervin Knuth"
+    },
+    {
+      "id": "53",
+      "quote": "Confusion is part of programming.",
+      "author": "Felienne Hermans"
+    },
+    {
+      "id": "54",
+      "quote": "No matter which field of work you want to go in, it is of great importance to learn at least one programming language.",
+      "author": "Ram Ray"
+    },
+    {
+      "id": "55",
+      "quote": "Software is like sex: it’s better when it’s free.",
+      "author": "Linus Torvalds"
+    },
+    {
+      "id": "56",
+      "quote": "If we want users to like our software, we should design it to behave like a likable person.",
+      "author": "Alan Cooper"
+    },
+    {
+      "id": "57",
+      "quote": "Quality is a product of a conflict between programmers and testers.",
+      "author": "Yegor Bugayenk"
+    },
+    {
+      "id": "58",
+      "quote": "Everybody should learn to program a computer because it teaches you how to think.",
+      "author": "Steve Jobs"
+    },
+    {
+      "id": "59",
+      "quote": "Programmers seem to be changing the world. It would be a relief, for them and for all of us, if they knew something about it.",
+      "author": "Ellen Ullman"
+    },
+    {
+      "id": "60",
+      "quote": "Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.",
+      "author": "Linus Torvalds"
+    },
+    {
+      "id": "61",
+      "quote": "Programmer: A machine that turns coffee into code.",
+      "author": "Anonymous"
+    },
+    {
+      "id": "62",
+      "quote": "When I wrote this code, only God and I understood what I did. Now only God knows.",
+      "author": "Anonymous"
+    },
+    {
+      "id": "63",
+      "quote": "I’m not a great programmer; I’m just a good programmer with great habits.",
+      "author": "Kent Beck"
+    },
+    {
+      "id": "64",
+      "quote": "You might not think that programmers are artists, but programming is an extremely creative profession. It’s logic-based creativity.",
+      "author": "John Romero"
+    },
+    {
+      "id": "65",
+      "quote": "Programming is learned by writing programs.",
+      "author": "Brian Kernighan"
+    },
+    {
+      "id": "66",
+      "quote": "Software comes from heaven when you have good hardware.",
+      "author": "Ken Olsen"
+    },
+    {
+      "id": "67",
+      "quote": "There is always one more bug to fix.",
+      "author": "Ellen Ullman"
+    },
+    {
+      "id": "68",
+      "quote": "If debugging is the process of removing bugs, then programming must be the process of putting them in.",
+      "author": "Sam Redwine"
+    },
+    {
+      "id": "69",
+      "quote": "Talk is cheap. Show me the code.",
+      "author": "Linus Torvalds"
+    },
+    {
+      "id": "70",
+      "quote": "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.",
+      "author": "Dan Salomon"
+    },
+    {
+      "id": "71",
+      "quote": "If, at first, you do not succeed, call it version 1.0.",
+      "author": "Khayri R.R. Woulfe"
+    },
+    {
+      "id": "72",
+      "quote": "Computers are fast; developers keep them slow.",
+      "author": "Anonymous"
+    },
+    {
+      "id": "73",
+      "quote": "Before software can be reusable it first has to be usable.",
+      "author": "Ralph Johnson"
+    },
+    {
+      "id": "74",
+      "quote": "Simplicity is the soul of efficiency.",
+      "author": "Austin Freeman"
+    },
+    {
+      "id": "75",
+      "quote": "Optimism is an occupational hazard of programming: feedback is the treatment.",
+      "author": "Kent Beck"
+    },
+    {
+      "id": "76",
+      "quote": "Fix the cause, not the symptom.",
+      "author": "Steve Maguire"
+    },
+    {
+      "id": "77",
+      "quote": "Code is like humor. When you have to explain it, it’s bad.",
+      "author": "Cory House"
+    },
+    {
+      "id": "78",
+      "quote": "Ruby is rubbish! PHP is phpantastic!",
+      "author": "Nikita Popov"
+    },
+    {
+      "id": "79",
+      "quote": "Every child is an artist, the problem is staying an artist when you grow up",
+      "author": "Pablo Picasso"
+    },
+    {
+      "id": "80",
+      "quote": "To live is to suffer, to survive is to find some meaning in the suffering.",
+      "author": "Friedrich Nietzsche"
+    },
+    {
+      "id": "81",
+      "quote": "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": "82",
+      "quote": "Be the change that you wish to see in the world.",
+      "author": "Mahatma Gandhi"
+    },
+    {
+      "id": "83",
+      "quote": "Without music, life would be a mistake.",
+      "author": "Friedrich Nietzsche"
+    },
+    {
+      "id": "84",
+      "quote": "Go to heaven for the climate and hell for the company.",
+      "author": "Benjamin Franklin Wade"
+    },
+    {
+      "id": "85",
+      "quote": "A day without laughter is a day wasted.",
+      "author": "Nicolas Chamfort"
+    },
+    {
+      "id": "86",
+      "quote": "Have you ever noticed how ‘What the hell’ is always the right decision to make?",
+      "author": "Terry Johnson"
+    },
+    {
+      "id": "87",
+      "quote": "How wonderful it is that nobody need wait a single moment before starting to improve the world.",
+      "author": "Anne Frank"
+    },
+    {
+      "id": "88",
+      "quote": "Never doubt that a small group of thoughtful, committed, citizens can change the world. Indeed, it is the only thing that ever has.",
+      "author": "Margaret Mead"
+    },
+    {
+      "id": "89",
+      "quote": "You talk when you cease to be at peace with your thoughts.",
+      "author": "Kahlil Gibran"
+    },
+    {
+      "id": "90",
+      "quote": "Man is the only creature who refuses to be what he is.",
+      "author": "Albert Camus"
+    },
+    {
+      "id": "91",
+      "quote": "May you live every day of your life.",
+      "author": "Jonathan Swift"
+    },
+    {
+      "id": "92",
+      "quote": "We have to dare to be ourselves, however frightening or strange that self may prove to be.",
+      "author": "May Sarton"
+    },
+    {
+      "id": "93",
+      "quote": "One, remember to look up at the stars and not down at your feet. Two, never give up work. Work gives you meaning and purpose and life is empty without it. Three, if you are lucky enough to find love, remember it is there and don't throw it away.",
+      "author": "Stephen Hawking"
+    },
+    {
+      "id": "94",
+      "quote": "If a cluttered desk is a sign of a cluttered mind, of what, then, is an empty desk a sign?",
+      "author": "Laurence J. Peter"
+    },
+    {
+      "id": "95",
+      "quote": "There is nothing either good or bad, but thinking makes it so.",
+      "author": "William Shakespear"
+    },
+    {
+      "id": "96",
+      "quote": "It is hard enough to remember my opinions, without also remembering my reasons for them!",
+      "author": "Friedrich Nietzsche"
+    },
+    {
+      "id": "97",
+      "quote": "Never let your sense of morals prevent you from doing what is right.",
+      "author": "Isaac Asimov"
+    },
+    {
+      "id": "98",
+      "quote": "You do not write your life with words...You write it with actions. What you think is not important. It is only important what you do.",
+      "author": "Patrick Ness"
+    },
+    {
+      "id": "99",
+      "quote": "Without deviation from the norm, progress is not possible.",
+      "author": "Frank Zappa"
+    },
+    {
+      "id": "100",
+      "quote": "Trust yourself. You know more than you think you do.",
+      "author": "Benjamin Spock"
+    },
+    {
+      "id": "101",
+      "quote": "Do not fear to be eccentric in opinion, for every opinion now accepted was once eccentric.",
+      "author": "Bertrand Russell"
+    },
+    {
+      "id": "102",
+      "quote": "The most beautiful experience we can have is the mysterious. It is the fundamental emotion that stands at the cradle of true art and true science.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": "103",
+      "quote": "A woman has to live her life, or live to repent not having lived it.",
+      "author": "D.H. Lawrence"
+    },
+    {
+      "id": "104",
+      "quote": "Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!",
+      "author": "Dr. Seuss"
+    },
+    {
+      "id": "105",
+      "quote": "I was within and without, simultaneously enchanted and repelled by the inexhaustible variety of life.",
+      "author": "Fitzgerald F. Scott,"
+    },
+    {
+      "id": "106",
+      "quote": "The only true wisdom is in knowing you know nothing.",
+      "author": "Socrates"
+    },
+    {
+      "id": "107",
+      "quote": "The unexamined life is not worth living.",
+      "author": "Socrates"
+    },
+    {
+      "id": "108",
+      "quote": "I cannot teach anybody anything. I can only make them think.",
+      "author": "Socrates"
+    },
+    {
+      "id": "109",
+      "quote": "There is only one good, knowledge, and one evil, ignorance.",
+      "author": "Socrates"
+    },
+    {
+      "id": "110",
+      "quote": "Be kind, for everyone you meet is fighting a hard battle.",
+      "author": "Socrates"
+    },
+    {
+      "id": "111",
+      "quote": "Strong minds discuss ideas, average minds discuss events, weak minds discuss people.",
+      "author": "Socrates"
+    },
+    {
+      "id": "112",
+      "quote": "Wonder is the beginning of wisdom.",
+      "author": "Socrates"
+    },
+    {
+      "id": "113",
+      "quote": "To find yourself, think for yourself.",
+      "author": "Socrates"
+    },
+    {
+      "id": "114",
+      "quote": "Education is the kindling of a flame, not the filling of a vessel.",
+      "author": "Socrates"
+    },
+    {
+      "id": "115",
+      "quote": "By all means marry; if you get a good wife, you’ll become happy; if you get a bad one, you’ll become a philosopher.",
+      "author": "Socrates"
+    },
+    {
+      "id": "116",
+      "quote": "He who is not contented with what he has, would not be contented with what he would like to have.",
+      "author": "Socrates"
+    },
+    {
+      "id": "117",
+      "quote": "Be slow to fall into friendship, but when you are in, continue firm and constant.",
+      "author": "Socrates"
+    },
+    {
+      "id": "118",
+      "quote": "No man has the right to be an amateur in the matter of physical training. It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable.",
+      "author": "Socrates"
+    },
+    {
+      "id": "119",
+      "quote": "Sometimes you put walls up not to keep people out, but to see who cares enough to break them down.",
+      "author": "Socrates"
+    },
+    {
+      "id": "120",
+      "quote": "The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less.",
+      "author": "Socrates"
+    },
+    {
+      "id": "121",
+      "quote": "Know thyself.",
+      "author": "Socrates"
+    },
+    {
+      "id": "122",
+      "quote": "Let him who would move the world first move himself.",
+      "author": "Socrates"
+    },
+    {
+      "id": "123",
+      "quote": "Contentment is natural wealth, luxury is artificial poverty.",
+      "author": "Socrates"
+    },
+    {
+      "id": "124",
+      "quote": "Death may be the greatest of all human blessings.",
+      "author": "Socrates"
+    },
+    {
+      "id": "125",
+      "quote": "Employ your time in improving yourself by other men's writings so that you shall come easily by what others have labored hard for.",
+      "author": "Socrates"
+    },
+    {
+      "id": "126",
+      "quote": "The hour of departure has arrived, and we go our separate ways, I to die, and you to live. Which of these two is better only God knows.",
+      "author": "Socrates"
+    },
+    {
+      "id": "127",
+      "quote": "The only good is knowledge and the only evil is ignorance.",
+      "author": "Socrates"
+    },
+    {
+      "id": "128",
+      "quote": "Do not do to others what angers you if done to you by others.",
+      "author": "Socrates"
+    },
+    {
+      "id": "129",
+      "quote": "I am not an Athenian or a Greek, but a citizen of the world.",
+      "author": "Socrates"
+    },
+    {
+      "id": "130",
+      "quote": "Every action has its pleasures and its price.",
+      "author": "Socrates"
+    },
+    {
+      "id": "131",
+      "quote": "Prefer knowledge to wealth, for the one is transitory, the other perpetual.",
+      "author": "Socrates"
+    },
+    {
+      "id": "132",
+      "quote": "We cannot live better than in seeking to become better.",
+      "author": "Socrates"
+    },
+    {
+      "id": "133",
+      "quote": "We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.",
+      "author": "Socrates"
+    },
+    {
+      "id": "134",
+      "quote": "Beware the barrenness of a busy life.",
+      "author": "Socrates"
+    },
+    {
+      "id": "135",
+      "quote": "understanding a question is half an answer",
+      "author": "Socrates"
+    },
+    {
+      "id": "136",
+      "quote": "Life contains but two tragedies. One is not to get your heart’s desire; the other is to get it.",
+      "author": "Socrates"
+    },
+    {
+      "id": "137",
+      "quote": "The hottest love has the coldest end.",
+      "author": "Socrates"
+    },
+    {
+      "id": "138",
+      "quote": "Envy is the ulcer of the soul.",
+      "author": "Socrates"
+    },
+    {
+      "id": "139",
+      "quote": "Be as you wish to seem.",
+      "author": "Socrates"
+    },
+    {
+      "id": "140",
+      "quote": "I know that I am intelligent, because I know that I know nothing.",
+      "author": "Socrates"
+    },
+    {
+      "id": "141",
+      "quote": "Thou shouldst eat to live; not live to eat.",
+      "author": "Socrates"
+    },
+    {
+      "id": "142",
+      "quote": "True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.",
+      "author": "Socrates"
+    },
+    {
+      "id": "143",
+      "quote": "The greatest way to live with honour in this world is to be what we pretend to be.",
+      "author": "Socrates"
+    },
+    {
+      "id": "144",
+      "quote": "Be nicer than necessary to everyone you meet. Everyone is fighting some kind of battle.",
+      "author": "Socrates"
+    },
+    {
+      "id": "145",
+      "quote": "From the deepest desires often come the deadliest hate.",
+      "author": "Socrates"
+    },
+    {
+      "id": "146",
+      "quote": "Once made equal to man, woman becomes his superior.",
+      "author": "Socrates"
+    },
+    {
+      "id": "147",
+      "quote": "My friend...care for your psyche...know thyself, for once we know ourselves, we may learn how to care for ourselves",
+      "author": "Socrates"
+    },
+    {
+      "id": "148",
+      "quote": "If you want to be a good saddler, saddle the worst horse; for if you can tame one, you can tame all.",
+      "author": "Socrates"
+    },
+    {
+      "id": "149",
+      "quote": "The beginning of wisdom is the definition of terms.",
+      "author": "Socrates"
+    },
+    {
+      "id": "150",
+      "quote": "Those who are hardest to love need it the most.",
+      "author": "Socrates"
+    },
+    {
+      "id": "151",
+      "quote": "The easiest and noblest way is not to be crushing others, but to be improving yourselves. ",
+      "author": "Socrates"
+    },
+    {
+      "id": "152",
+      "quote": "I only know that I know nothing",
+      "author": "Socrates"
+    },
+    {
+      "id": "153",
+      "quote": "Don’t think about making art, just get it done. Let everyone else decide if it’s good or bad, whether they love it or hate it. While they are deciding, make even more art.",
+      "author": "Andy Warhol"
+    },
+    {
+      "id": "154",
+      "quote": "Art is a collaboration between God and the artist, and the less the artist does the better.",
+      "author": "Andre Gide"
+    },
+    {
+      "id": "155",
+      "quote": "Every artist was first an amateur.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "id": "156",
+      "quote": "I found I could say things with color and shapes that I couldn’t say any other way – things I had no words for",
+      "author": "Georgia O’Keeffe"
+    },
+    {
+      "id": "157",
+      "quote": "Don’t think. Thinking is the enemy of creativity. It’s self-conscious, and anything self-conscious is lousy. You can’t try to do things. You simply must do things.",
+      "author": "Bradbury"
+    },
+    {
+      "id": "158",
+      "quote": "Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep.",
+      "author": "Scott Adams"
+    },
+    {
+      "id": "159",
+      "quote": "The one thing that you have that nobody else has is you. Your voice, your mind, your story, your vision. So, write and draw and build and play and dance and live only as you can.",
+      "author": "Neil Gaiman"
+    },
+    {
+      "id": "160",
+      "quote": "Music is a moral law. It gives soul to the universe, wings to the mind, flight to the imagination, and charm and gaiety to life and to everything.",
+      "author": "Plato"
+    },
+    {
+      "id": "161",
+      "quote": "As there are misanthropists or haters of men, so also are there misologists, or haters of ideas.",
+      "author": "Plato"
+    },
+    {
+      "id": "162",
+      "quote": "Better be unborn than untaught, for ignorance is the root of misfortune.",
+      "author": "Plato"
+    },
+    {
+      "id": "163",
+      "quote": "Software is a great combination between artistry and engineering.",
+      "author": "Bill Gates"
+    },
+    {
+      "id": "164",
+      "quote": "This is a software-powered world.",
+      "author": "Satya Nadella"
+    },
+    {
+      "id": "165",
+      "quote": "Nothing works better than just improving your product.",
+      "author": "Joel Spolsky"
+    },
+    {
+      "id": "166",
+      "quote": "Software is eating the world.",
+      "author": "Marc Andreessen"
+    },
+    {
+      "id": "167",
+      "quote": "Machines take me by surprise with great frequency.",
+      "author": "Alan Turing"
+    },
+    {
+      "id": "168",
+      "quote": "Code never lies, comments sometimes do.",
+      "author": "Ron Jeffries"
+    },
+    {
+      "id": "169",
+      "quote": "The most important single aspect of software development is to be clear about what you are trying to build.",
+      "author": "Bjarne Stroustrup"
+    },
+    {
+      "id": "170",
+      "quote": "If you think it’s simple, then you have misunderstood the problem.",
+      "author": "Bjarne Stroustrup"
+    },
+    {
+      "id": "171",
+      "quote": "A good programmer is someone who always looks both ways before crossing a one-way street.",
+      "author": "Doug Linder"
+    },
+    {
+      "id": "172",
+      "quote": "Programming is a skill best acquired by practice and example rather than from books.",
+      "author": "Alan Turing"
+    },
+    {
+      "id": "173",
+      "quote": "Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.",
+      "author": "Linus Torvalds"
+    },
+    {
+      "id": "174",
+      "quote": "All things are difficult before they are easy.",
+      "author": "Thomas Fuller"
+    },
+    {
+      "id": "175",
+      "quote": "Life is 10% what happens to you and 90% how you react to it.",
+      "author": "Charles R. Swindoll"
+    },
+    {
+      "id": "176",
+      "quote": "The past has no power over the present moment.",
+      "author": "Eckhart Tolle"
+    },
+    {
+      "id": "177",
+      "quote": "Either you run the day or the day runs you.",
+      "author": "Jim Rohn"
+    },
+    {
+      "id": "178",
+      "quote": "You cannot have a positive life and a negative mind.",
+      "author": "Joyce Meyer"
+    },
+    {
+      "id": "179",
+      "quote": "If opportunity doesn’t knock, build a door.",
+      "author": "Milton Berle"
+    },
+    {
+      "id": "180",
+      "quote": "We are all here for some special reason. Stop being a prisoner of your past. Become the architect of your future.",
+      "author": "Robin S. Sharma"
+    },
+    {
+      "id": "181",
+      "quote": "Always turn a negative situation into a positive situation.",
+      "author": "Michael Jordan"
+    },
+    {
+      "id": "182",
+      "quote": "The best revenge is massive success.",
+      "author": "Frank Sinatra"
+    },
+    {
+      "id": "183",
+      "quote": "If we’re growing, we’re always going to be out of our comfort zone.",
+      "author": "John C. Maxwell"
+    },
+    {
+      "id": "184",
+      "quote": "There are always flowers for those who want to see them.",
+      "author": "Henri Matisse"
+    },
+    {
+      "id": "185",
+      "quote": "If you realized how powerful your thoughts are, you would never think a negative thought.",
+      "author": "Peace Pilgrim"
+    },
+    {
+      "id": "186",
+      "quote": "The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack in will.",
+      "author": "Vince Lombardi"
+    },
+    {
+      "id": "187",
+      "quote": "Hope is a waking dream.",
+      "author": "Aristotle"
+    },
+    {
+      "id": "188",
+      "quote": "Even if you are on the right track, you’ll get run over if you just sit there.",
+      "author": "Will Rogers"
+    },
+    {
+      "id": "189",
+      "quote": "Many of life’s failures are people who did not realize how close they were to success when they gave up.",
+      "author": "Thomas A. Edison"
+    },
+    {
+      "id": "190",
+      "quote": "Nurture your mind with great thoughts, for you will never go any higher than you think.",
+      "author": "Benjamin Disraeli"
+    },
+    {
+      "id": "191",
+      "quote": "I am the greatest, I said that even before I knew I was.",
+      "author": "Muhammad Ali"
+    },
+    {
+      "id": "192",
+      "quote": "The only way of finding the limits of the possible is by going beyond them into the impossible.",
+      "author": "Arthur C. Clarke"
+    },
+    {
+      "id": "193",
+      "quote": "It is said that the darkest hour of the night comes just before the dawn.",
+      "author": "Thomas Fuller"
+    },
+    {
+      "id": "194",
+      "quote": "The positive thinker sees the invisible, feels the intangible , and achieves the impossible.",
+      "author": "Winston Churchill"
+    },
+    {
+      "id": "195",
+      "quote": "I have not failed. I’ve just found 10,000 ways that won’t work.",
+      "author": "Thomas A. Edison"
+    },
+    {
+      "id": "196",
+      "quote": "Keep your face to the sun and you will never see the shadows.",
+      "author": "Helen Keller"
+    },
+    {
+      "id": "197",
+      "quote": "When you want something, all the universe conspires in helping you to achieve it.",
+      "author": "Paulo Coelho"
+    },
+    {
+      "id": "198",
+      "quote": "It does not matter how slowly you go as long as you do not stop.",
+      "author": "Confucius"
+    },
+    {
+      "id": "199",
+      "quote": "An attitude of positive expectation is the mark of the superior personality.",
+      "author": "Brian Tracy"
+    },
+    {
+      "id": "200",
+      "quote": "Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner.",
+      "author": "Arnold Schwarzenegger"
+    },
+    {
+      "id": "201",
+      "quote": "Victory is sweetest when you’ve known defeat.",
+      "author": "Malcolm S. Forbes"
+    },
+    {
+      "id": "202",
+      "quote": "The foolish man seeks happiness in the distance; the wise grows it under his feet.",
+      "author": "James Oppenheim"
+    },
+    {
+      "id": "203",
+      "quote": "That which does not kill us makes us stronger.",
+      "author": "Friedrich Nietzsche"
+    },
+    {
+      "id": "204",
+      "quote": "There are two ways of spreading light: to be the candle or the mirror that reflects it.",
+      "author": "Edith Wharton"
+    },
+    {
+      "id": "205",
+      "quote": "Turn your wounds into wisdom.",
+      "author": "Oprah Winfrey"
+    },
+    {
+      "id": "206",
+      "quote": "Be not afraid of life. Believe that life is worth living, and your belief will help create the fact.",
+      "author": "William James"
+    },
+    {
+      "id": "207",
+      "quote": "Once you replace negative thoughts with positive ones, you’ll start having positive results.",
+      "author": "Willie Nelson"
+    },
+    {
+      "id": "208",
+      "quote": "We must embrace pain and burn it as fuel for our journey.",
+      "author": "Kenji Miyazawa"
+    },
+    {
+      "id": "209",
+      "quote": "Write it on your heart that every day is the best day in the year.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "id": "210",
+      "quote": "The way I see it, if you want the rainbow, you gotta put up with the rain.",
+      "author": "Dolly Parton"
+    },
+    {
+      "id": "211",
+      "quote": "I have found that if you love life, life will love you back.",
+      "author": "Arthur Rubinstein"
+    },
+    {
+      "id": "212",
+      "quote": "Eighty percent of success is showing up.",
+      "author": "Woody Allen"
+    },
+    {
+      "id": "213",
+      "quote": "The best way out is always through.",
+      "author": "Robert Frost"
+    },
+    {
+      "id": "214",
+      "quote": "Positive anything is better than negative nothing.",
+      "author": "Elbert Hubbard"
+    },
+    {
+      "id": "215",
+      "quote": "I may not have gone where I intended to go, but I think I have ended up where I needed to be.",
+      "author": "Douglas Adams"
+    },
+    {
+      "id": "216",
+      "quote": "I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.",
+      "author": "Og Mandino"
+    },
+    {
+      "id": "217",
+      "quote": "Every strike brings me closer to the next home run.",
+      "author": "Babe Ruth"
+    },
+    {
+      "id": "218",
+      "quote": "You must not allow yourself to dwell for a single moment on any kind of negative thought.",
+      "author": "Emmet Fox"
+    },
+    {
+      "id": "219",
+      "quote": "Perpetual optimism is a force multiplier.",
+      "author": "Colin Powell"
+    },
+    {
+      "id": "220",
+      "quote": "Adopting the right attitude can convert a negative stress into a positive one.",
+      "author": "Hans Selye"
+    },
+    {
+      "id": "221",
+      "quote": "There are two ways of exerting one’s strength: one is pushing down, the other is pulling up.",
+      "author": "Booker T. Washington"
+    },
+    {
+      "id": "222",
+      "quote": "Positive thinking will let you do everything better than negative thinking will.",
+      "author": "Zig Ziglar"
+    },
+    {
+      "id": "223",
+      "quote": "Happiness equals reality minus expectations.",
+      "author": "Tom Magliozzi"
+    },
+    {
+      "id": "224",
+      "quote": "Time you enjoy wasting, was not wasted.",
+      "author": "John Lennon"
+    },
+    {
+      "id": "225",
+      "quote": "Dream big, stay positive, work hard, and enjoy the journey.",
+      "author": "Urijah Faber"
+    },
+    {
+      "id": "226",
+      "quote": "A healthy attitude is contagious but don’t wait to catch it from others. Be a carrier.",
+      "author": "Tom Stoppard"
+    },
+    {
+      "id": "227",
+      "quote": "Love the life you live. Live the life you love.",
+      "author": "Bob Marley"
+    },
+    {
+      "id": "228",
+      "quote": "You only live once, but if you do it right, once is enough.",
+      "author": "Mae West"
+    },
+    {
+      "id": "229",
+      "quote": "Life isn’t about finding yourself. Life is about creating yourself.",
+      "author": "George Bernard Shaw"
+    },
+    {
+      "id": "230",
+      "quote": "Everything you can imagine is real.",
+      "author": "Pablo Picasso"
+    },
+    {
+      "id": "231",
+      "quote": "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+      "author": "Mahatma Gandhi"
+    },
+    {
+      "id": "232",
+      "quote": "Love the life you live. Live the life you love.",
+      "author": "Bob Marley"
+    },
+    {
+      "id": "233",
+      "quote": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": "234",
+      "quote": "It’s the possibility of having a dream come true that makes life interesting",
+      "author": "Paulo Coelho"
+    },
+    {
+      "id": "235",
+      "quote": "You have enemies? Good. That means you've stood up for something, sometime in your life.",
+      "author": "Winston Churchill"
+    },
+    {
+      "id": "236",
+      "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+      "author": "Oscar Wilde"
+    },
+    {
+      "id": "237",
+      "quote": "What is the point of being alive if you don’t at least try to do something remarkable?",
+      "author": "John Green"
+    },
+    {
+      "id": "238",
+      "quote": "Sometimes you make choices in life and sometimes choices make you.",
+      "author": "Gayle Forman"
+    },
+    {
+      "id": "239",
+      "quote": "Choose a job you love, and you will never have to work a day in your life.",
+      "author": "Confucius"
+    },
+    {
+      "id": "240",
+      "quote": "It is not the years in your life that count, it’s the life in your years.",
+      "author": "Abraham Lincoln"
+    },
+    {
+      "id": "241",
+      "quote": "It is better to be hated for what you are than to be loved for what you are not.",
+      "author": "André Gide"
+    },
+    {
+      "id": "242",
+      "quote": "Every minute you spend with someone gives them a part of your life and takes part of theirs.",
+      "author": "Ally Condie"
+    },
+    {
+      "id": "243",
+      "quote": "Life is what happens to you while you’re busy making other plans.",
+      "author": "Allen Saunders"
+    },
+    {
+      "id": "244",
+      "quote": "In three words I can sum up everything I’ve learned about life: it goes on.",
+      "author": "Robert Frost"
+    },
+    {
+      "id": "245",
+      "quote": "There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": "246",
+      "quote": "You’ve gotta dance like there’s nobody watching, love like you’ll never be hurt, sing like there’s nobody listening, and live like it’s heaven on earth.",
+      "author": "William W. Purkey"
+    },
+    {
+      "id": "247",
+      "quote": "Life shrinks or expands in proportion to one’s courage.",
+      "author": "Anaïs Nin"
+    },
+    {
+      "id": "248",
+      "quote": "Life is really simple, but we insist on making it complicated.",
+      "author": "Confucius"
+    },
+    {
+      "id": "249",
+      "quote": "We must be willing to let go of the life we planned so as to have the life that is waiting for us.",
+      "author": "Joseph Campbell"
+    },
+    {
+      "id": "250",
+      "quote": "Where there is love there is life.",
+      "author": "Mahatma Gandhi"
+    },
+    {
+      "id": "251",
+      "quote": "I wonder how many people I've looked at all my life and never seen.",
+      "author": "John Steinbeck"
+    },
+    {
+      "id": "252",
+      "quote": "Life’s most persistent and urgent question is, ‘What are you doing for others ?",
+      "author": "Martin Luther King Jr"
+    },
+    {
+      "id": "253",
+      "quote": "The only person you should try to be better than is the person you were yesterday",
+      "author": "Matty Mullins"
+    },
+    {
+      "id": "254",
+      "quote": "Sometimes people use thought to not participate in life.",
+      "author": "Stephen Chbosky"
+    },
+    {
+      "id": "255",
+      "quote": "Keep your eyes on the stars, and your feet on the ground.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "id": "256",
+      "quote": "It is said that your life flashes before your eyes just before you die. That is true, it’s called Life.",
+      "author": "Terry Pratchett"
+    },
+    {
+      "id": "257",
+      "quote": "Life is far too important a thing ever to talk seriously about.",
+      "author": "Oscar Wilde"
+    },
+    {
+      "id": "258",
+      "quote": "Every moment is a fresh beginning.",
+      "author": "T. S. Eliot"
+    },
+    {
+      "id": "259",
+      "quote": "Don’t judge each day by the harvest you reap but by the seeds that you plant.",
+      "author": "Robert Louis Stevenson"
+    },
+    {
+      "id": "260",
+      "quote": "Try to be a rainbow in someone’s cloud.",
+      "author": "Maya Angelou"
+    },
+    {
+      "id": "261",
+      "quote": "It’s hard to beat a person who never gives up.",
+      "author": "Babe Ruth"
+    },
+    {
+      "id": "262",
+      "quote": "Most of us spend too much time on what is urgent and not enough time on what is important.",
+      "author": "Stephen R. Covey"
+    },
+    {
+      "id": "263",
+      "quote": "Why fit in when you were born to stand out?",
+      "author": "Dr. Seuss"
+    },
+    {
+      "id": "264",
+      "quote": "Your time is limited, so don’t waste it living someone else’s life.",
+      "author": "Steve Jobs"
+    },
+    {
+      "id": "265",
+      "quote": "There is a crack in everything, that’s how the light gets in.",
+      "author": "Leonard Cohen"
+    },
+    {
+      "id": "266",
+      "quote": "I am the master of my fate; I am the captain of my soul.",
+      "author": "William Ernest Henley"
+    },
+    {
+      "id": "267",
+      "quote": "Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.",
+      "author": "Bernard M. Baruch"
+    },
+    {
+      "id": "268",
+      "quote": "Take care of your body. It’s the only place you have to live.",
+      "author": "Jim Rohn"
+    },
+    {
+      "id": "269",
+      "quote": "Until you are happy with who you are, you will never be happy with what you have.",
+      "author": "Zig Ziglar"
+    },
+    {
+      "id": "270",
+      "quote": "Always laugh when you can. It is cheap medicine.",
+      "author": "Lord Byron"
+    },
+    {
+      "id": "271",
+      "quote": "One day your life will flash before your eyes. Make sure it’s worth watching.",
+      "author": "Gerard Way"
+    },
+    {
+      "id": "273",
+      "quote": "The true meaning of life is to plant trees, under whose shade you do not expect to sit.",
+      "author": "Nelson Henderson"
+    },
+    {
+      "id": "274",
+      "quote": "Life is a book and there are a thousand pages I have not yet read.",
+      "author": "Cassandra Clare"
+    },
+    {
+      "id": "275",
+      "quote": "There are three constants in life: change, choice and principles.",
+      "author": "Stephen R. Covey"
+    },
+    {
+      "id": "276",
+      "quote": "Life is the sum of your choices.",
+      "author": "Albert Camus"
+    },
+    {
+      "id": "277",
+      "quote": "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.",
+      "author": "Marie Curie"
+    },
+    {
+      "id": "278",
+      "quote": "Because when you stop and look around, this life is pretty amazing.",
+      "author": "Dr. Seuss"
+    },
+    {
+      "id": "279",
+      "quote": "It is in your moments of decision that your destiny is shaped.",
+      "author": "Tony Robbins"
+    },
+    {
+      "id": "280",
+      "quote": "How people treat you is their karma; how you react is yours.",
+      "author": "Wayne W. Dyer"
+    },
+    {
+      "id": "281",
+      "quote": "Make each day your masterpiece. Life is now. Life is not later on.",
+      "author": "John Wooden"
+    },
+    {
+      "id": "282",
+      "quote": "However difficult life may seem, there is always something you can do and succeed at.",
+      "author": "Stephen Hawking"
+    },
+    {
+      "id": "283",
+      "quote": "Our prime purpose in this life is to help others. And if you can’t help them, at least don’t hurt them.",
+      "author": "Dalai Lama XIV"
+    },
+    {
+      "id": "284",
+      "quote": "Acknowledging the good that you already have in your life is the foundation for all abundance.",
+      "author": "Eckhart Tolle"
+    },
+    {
+      "id": "285",
+      "quote": "Do the best you can until you know better. Then when you know better, do better.",
+      "author": "Maya Angelou"
+    },
+    {
+      "id": "286",
+      "quote": "As soon as you trust yourself, you will know how to live.",
+      "author": "Johann Wolfgang von Goethe"
+    },
+    {
+      "id": "287",
+      "quote": "Write it on your heart that every day is the best day in the year.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "id": "288",
+      "quote": "Tough times never last, but tough people do.",
+      "author": "Robert H. Schuller"
+    },
+    {
+      "id": "289",
+      "quote": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "id": "290",
+      "quote": "Some of us think holding on makes us strong; but sometimes it is letting go.",
+      "author": "Hermann Hesse"
+    },
+    {
+      "id": "291",
+      "quote": "All that we see or seem is but a dream within a dream.",
+      "author": "Edgar Allan Poe"
+    },
+    {
+      "id": "292",
+      "quote": "Embrace the glorious mess that you are.",
+      "author": "Elizabeth Gilbert"
+    },
+    {
+      "id": "293",
+      "quote": "Life is a dance between making it happen and letting it happen.",
+      "author": "Arianna Huffington"
+    },
+    {
+      "id": "294",
+      "quote": "I can be changed by what happens to me, but I refuse to be reduced by it.",
+      "author": "Maya Angelou"
+    },
+    {
+      "id": "295",
+      "quote": "You, me, or nobody is gonna hit as hard as life. But it ain’t about how hard you hit. It’s about how hard you can get hit and keep moving forward.",
+      "author": "Sylvester Stallone"
+    },
+    {
+      "id": "296",
+      "quote": "Life is a matter of choices, and every choice you make makes you.",
+      "author": "John C. Maxwell"
+    },
+    {
+      "id": "297",
+      "quote": "Think of all the beauty still left around you and be happy.",
+      "author": "Anne Frank"
+    },
+    {
+      "id": "298",
+      "quote": "Wanting to be someone else is a waste of the person you are.",
+      "author": "Kurt Cobain"
+    },
+    {
+      "id": "299",
+      "quote": "I have found that if you love life, life will love you back.",
+      "author": "Arthur Rubinstein"
+    },
+    {
+      "id": "300",
+      "quote": "Turn your wounds into wisdom.",
+      "author": "Oprah Winfrey"
+    },
+    {
+      "id": "301",
+      "quote": "Life is now in session. Are you present?",
+      "author": "John C. Maxwell"
+    },
+    {
+      "id": "302",
+      "quote": "Worry does not empty tomorrow of its sorrow. It empties today of its strength.",
+      "author": "Corrie ten Boom"
+    },
+    {
+      "id": "303",
+      "quote": "Life isn’t as serious as the mind makes it out to be.",
+      "author": "Eckhart Tolle"
+    },
+    {
+      "id": "304",
+      "quote": "My life is perfect even when it’s not.",
+      "author": "Ellen DeGeneres"
+    },
+    {
+      "id": "305",
+      "quote": "My life is perfect even when it’s not.",
+      "author": "Ellen DeGeneres"
+    },
+    {
+      "id": "306",
+      "quote": "How we spend our days is, of course, how we spend our lives.",
+      "author": "Annie Dillard"
+    }
+  ]
+}

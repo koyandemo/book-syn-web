@@ -1,0 +1,17 @@
+.book-detail-page {
+ width: 1300px;
+ height: 100vh;
+ margin: auto;
+ margin-top: 80px;
+}
+
+@media screen and (max-width : 1350px) {
+
+ .book-detail-page {
+  padding-left: 10px;
+  padding-right: 10px;
+  box-sizing: border-box;
+  width: 100%;
+ }
+
+}

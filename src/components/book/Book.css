@@ -1,0 +1,66 @@
+.book {
+ min-width: 138px;
+ height: auto;
+ color: black;
+ overflow: hidden;
+ z-index: 100;
+ padding: 0;
+ margin: 0%;
+ background: rgba(255, 255, 255, 0.25);
+ /* box-shadow: 0 1px 3px 0 rgb(0 0 0 / 10%), 0 1px 2px 0 rgb(0 0 0 / 6%);
+ backdrop-filter: blur(4px);
+ -webkit-backdrop-filter: blur(4px); */
+}
+
+.book-img {
+ overflow: hidden;
+ border-radius: 3px;
+ border: 1px solid rgba(255, 255, 255, 0.18);
+ width: 138px;
+ height: 200px;
+ object-fit: cover;
+ z-index: 10;
+ background-color: var(--bgTheme);
+}
+
+@media screen and (max-width : 320px) {
+ .book {
+  min-width: none;
+  width: 100%;
+  height: 400px;
+ }
+
+ .book-img {
+  width: 100%;
+  height: 330px;
+ }
+}
+
+.book-info {
+ padding-top: 10px;
+ padding-bottom: 15px;
+ padding-left: 5px;
+}
+
+.book-rating {
+ display: flex;
+ align-items: center;
+ gap: 5px;
+ height: 18px;
+ font-size: 15px;
+}
+
+.book-rating-star {
+ color: gold;
+}
+
+.book-rating-info {}
+
+
+.book-title {
+ text-align: left;
+ font-size: 14px;
+ margin-top: 10px;
+ margin-bottom: 0px;
+ text-transform: capitalize;
+}

@@ -1,0 +1,195 @@
+.slider {
+ position: relative;
+ width: 1300px;
+ margin: auto;
+ height: auto;
+ margin-top: 30px;
+}
+
+.scroll-tray {
+ display: flex;
+ white-space: nowrap;
+}
+
+.scroll-tray .div1 {
+ display: inline;
+ transform: rotateY(calc(var(1)*45deg)) translateZ(350px);
+}
+
+.scroll-tray .div2 {
+ display: inline;
+ transform: rotateY(calc(var(2)*45deg)) translateZ(350px);
+}
+
+.scroll-tray .div3 {
+ display: inline;
+ transform: rotateY(calc(var(3)*45deg)) translateZ(350px);
+}
+
+.scroll-tray .div4 {
+ display: inline;
+ transform: rotateY(calc(var(4)*45deg)) translateZ(350px);
+}
+
+.scroll-tray .div5 {
+ display: inline;
+ transform: rotateY(calc(var(5)*45deg)) translateZ(350px);
+}
+
+.scroll-tray .div6 {
+ display: inline;
+ transform: rotateY(calc(var(6)*45deg)) translateZ(350px);
+}
+
+.scroll-tray .div7 {
+ display: inline;
+ transform: rotateY(calc(var(7)*45deg)) translateZ(350px);
+}
+
+.scroll-tray .div8 {
+ display: inline;
+ transform: rotateY(calc(var(8)*45deg)) translateZ(350px);
+}
+
+.scroll-tray .div9 {
+ display: inline;
+ transform: rotateY(calc(var(9)*45deg)) translateZ(350px);
+}
+
+.scroll-tray .div10 {
+ display: inline;
+ transform: rotateY(calc(var(10)*45deg)) translateZ(350px);
+}
+
+.scroll-tray img {
+ border-radius: 0.3rem;
+ margin: 7px 5px;
+ padding: 0;
+ width: 340px;
+ height: 200px;
+ object-fit: cover;
+}
+
+.scroll-tray-reverse {
+ display: flex;
+ direction: rtl;
+ white-space: nowrap;
+}
+
+.scroll-tray-reverse div {
+ display: inline;
+}
+
+
+.scroll-tray-reverse img {
+ border-radius: 0.3rem;
+ margin: 7px 5px;
+ padding: 0;
+ width: 340px;
+ height: 200px;
+ object-fit: cover;
+}
+
+.scroll-holder {
+ display: flex;
+ flex-direction: column;
+ overflow-x: hidden;
+}
+
+/* .scroll-holder .scroll-tray:first-child {
+ animation: scroll-tray-hero 180s linear infinite;
+}
+
+.scroll-holder .scroll-tray:last-child {
+ animation: scroll-tray-hero 360s linear infinite;
+}
+
+.scroll-holder .scroll-tray-reverse:first-child {
+ animation: scroll-tray-hero-reverse 180s linear infinite;
+}
+
+.scroll-holder .scroll-tray-reverse:last-child {
+ animation: scroll-tray-hero-reverse 180s linear infinite;
+} */
+
+@keyframes scroll-tray-hero-reverse {
+ 0% {
+  transform: translateX(0);
+ }
+
+ 99.99% {
+  transform: translateX(7098px);
+ }
+
+ 100% {
+  transform: translateX(0);
+ }
+}
+
+@keyframes scroll-tray-hero {
+ 0% {
+  transform: translateX(0);
+ }
+
+ 99.99% {
+  transform: translateX(-7098px);
+ }
+
+ 100% {
+  transform: translateX(0);
+ }
+}
+
+.slides {
+ position: relative;
+
+ display: flex;
+ align-items: start;
+ width: 1300px;
+ height: 370px;
+ gap: 10px;
+ overflow-x: scroll;
+ scroll-behavior: smooth;
+}
+
+.slides::-webkit-scrollbar {
+ width: 5px;
+ height: 5px;
+}
+
+.slides::-webkit-scrollbar-thumb {
+ border-radius: 10px;
+ width: 5px;
+ box-shadow: var(--scrollThumbShadow);
+}
+
+
+.slider-prev {
+ position: absolute;
+ width: 30px;
+ height: 30px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ top: 130px;
+ left: -10px;
+ background-color: cyan;
+ border-radius: 100%;
+ z-index: 200;
+ cursor: pointer;
+}
+
+.slider-next {
+ position: absolute;
+ width: 30px;
+ height: 30px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ top: 130px;
+ right: -10px;
+ background-color: cyan;
+ border-radius: 100%;
+ z-index: 200;
+ cursor: pointer;
+}

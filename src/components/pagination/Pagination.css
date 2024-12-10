@@ -1,0 +1,38 @@
+.pagination-container {
+ z-index: 888;
+ width: inherit;
+ padding-top: 30px;
+ padding-bottom: 30px;
+}
+
+.pagination-items {
+ display: flex;
+ gap: 10px;
+ list-style: none;
+ cursor: pointer;
+ align-items: center;
+ justify-content: center;
+}
+
+.pagination-item {
+ padding: 8px 12px;
+ color: var(--colorTheme);
+   background-color: rgba(128, 128, 128, 0.243);
+ /* background-color: rgba(160, 157, 157, 0.178); */
+}
+
+.pagination-item-action {
+  padding: unset;
+  margin: unset;
+  
+}
+
+.pagination-item-action > svg{
+fill: var(--colorTheme);
+}
+
+.pagination-item-active {
+ background-color: black;
+ border: 1px solid rgba(245, 245, 245, 0.12);
+ color: white;
+}

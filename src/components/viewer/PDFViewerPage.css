@@ -1,0 +1,7 @@
+.pdf-viewer-page{
+ position: absolute;
+ inset: 0;
+ background-color: whitesmoke;
+ display: flex;
+ flex-direction: column;
+}

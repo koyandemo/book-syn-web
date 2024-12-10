@@ -1,0 +1,36 @@
+.collection {
+ min-width: 180px;
+ height: auto;
+ color: black;
+ overflow: hidden;
+ z-index: 100;
+ padding: 0;
+ margin: 0%;
+ background: rgba(255, 255, 255, 0.25);
+ /* box-shadow: 0 1px 3px 0 rgb(0 0 0 / 10%), 0 1px 2px 0 rgb(0 0 0 / 6%);
+ backdrop-filter: blur(4px);
+ -webkit-backdrop-filter: blur(4px); */
+}
+
+.collection-img {
+ overflow: hidden;
+ border-radius: 3px;
+ border: 1px solid rgba(255, 255, 255, 0.18);
+ width: 180px;
+ height: 275px;
+ object-fit: cover;
+ z-index: 10;
+}
+
+.collection-info {
+ padding-top: 5px;
+ padding-bottom: 15px;
+ padding-left: 5px;
+}
+
+.collection-title {
+ text-align: left;
+ font-size: 14px;
+ margin-top: 10px;
+ margin-bottom: 0px;
+}

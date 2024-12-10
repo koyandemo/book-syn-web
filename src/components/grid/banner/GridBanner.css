@@ -1,0 +1,91 @@
+.grid-banners {
+ position: relative;
+ width: 1300px;
+ margin: auto;
+ margin-top: 40px;
+ margin-bottom: 30px;
+ overflow: hidden;
+}
+
+.grid-banners img {
+ border-radius: 3px;
+ object-fit: cover;
+ object-position: top;
+ overflow: hidden;
+
+}
+
+.grid-banners-1 {
+ display: grid;
+ justify-content: center;
+ grid-template-columns: 295px 340px 340px 295px;
+ justify-content: space-between;
+ grid-gap: 10px;
+}
+
+.grid-banners-1-img-1 {
+ width: 295px;
+ height: 200px;
+ display: inline-block;
+ background-color: white;
+}
+
+.grid-banners-1-img-2 {
+ width: 340px;
+ height: 200px;
+ display: inline-block;
+ background-color: white;
+}
+
+.grid-banners-1-img-3 {
+
+ width: 340px;
+ height: 200px;
+ display: inline-block;
+ background-color: white;
+}
+
+.grid-banners-1-img-4 {
+ width: 295px;
+ height: 200px;
+ display: inline-block;
+ background-color: white;
+}
+
+.grid-banners-2 {
+ margin-top: 10px;
+ display: grid;
+ justify-content: center;
+ grid-template-columns: 335px 300px 300px 335px;
+ justify-content: space-between;
+ grid-gap: 10px;
+
+}
+
+.grid-banners-2-img-1 {
+ width: 335px;
+ height: 200px;
+ display: inline-block;
+ background-color: white;
+}
+
+.grid-banners-2-img-2 {
+ width: 300px;
+ height: 200px;
+ display: inline-block;
+ background-color: white;
+}
+
+.grid-banners-2-img-3 {
+ width: 300px;
+ height: 200px;
+ display: inline-block;
+ background-color: white;
+}
+
+.grid-banners-2-img-4 {
+ width: 335px;
+ height: 200px;
+ display: inline-block;
+ background-color: white;
+}

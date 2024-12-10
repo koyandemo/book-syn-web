@@ -1,0 +1,139 @@
+
+#footer-section{
+ position: relative;
+ bottom: 0;
+ width: 100%;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
+.footer-top {
+  width: 100%;
+  padding-bottom: 2rem;
+  height: 370px;
+  background-color: #111;
+}
+
+.footer-bottom {
+  width: 100%;
+  padding-bottom: 0px;
+  background-color: #060606;
+  color: white;
+}
+
+.footer-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  padding-top: 30px;
+  margin-top: 30px;
+  color: white;
+}
+
+.footer-col {
+  width: 385px;
+  height: 248px;
+  margin-right: 20px;
+}
+
+.footer.footer-business > h3 {
+  margin-top: 20px;
+  font-size: 24px;
+  font-weight: 700;
+  padding-bottom: 10px;
+  border-bottom: 1px solid red;
+}
+
+.footer-business > p {
+  margin-top: 20px;
+  font-size: 14px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.footer-payment {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+.footer-payment > div {
+  text-decoration: none;
+  padding-top: 20px;
+  padding-right: 15px;
+}
+.footer-payment > img {
+  width: 51px;
+  height: 32px;
+  object-fit: cover;
+}
+
+.footer-payment-info {
+}
+
+.footer-payment-info > h3 {
+  margin-top: 20px;
+  font-size: 24px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid red;
+}
+
+.footer-payment-info-action {
+  cursor: pointer;
+  display: block;
+  margin-top: 20px;
+  margin-left: 10px;
+  font-size: 15px;
+  border: none;
+  color: white;
+  background-color: transparent;
+  transition: 0.2s ease-in;
+}
+.footer-payment-info-action:hover {
+  transform: translateX(8px);
+  color: red;
+}
+
+.footer-contact {
+}
+
+.footer-contact > h3 {
+  margin-top: 20px;
+  font-size: 24px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid red;
+}
+
+.footer-contact > p {
+  margin-top: 20px;
+  margin-left: 10px;
+  list-style: none;
+}
+.footer-contact > i {
+  font-size: 20px;
+  color: white;
+  padding-right: 5px;
+}
+.footer-copyright {
+  padding-top:0px;
+  text-align: center;
+}
+
+.footer-copyright-credit {
+  padding-top: 10px;
+  text-align: center;
+}
+
+.footer-copyright-credit > em {
+  /* //background-image: linear-gradient(to top right , red,white);
+   //background-image: linear-gradient(to right bottom,#FF3366,#BA265D); */
+  color: #ab2a2a;
+}
+
+@media screen and (max-width: 809px) {
+  .footer-col {
+    height: auto;
+    margin-bottom: 10px;
+    margin-left: 5px;
+  }
+}

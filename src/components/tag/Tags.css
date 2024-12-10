@@ -1,0 +1,23 @@
+.tags {
+ margin: 10px;
+ width: inherit;
+ height: auto;
+ display: flex;
+ align-items: flex-start;
+ flex-direction: column;
+ flex-wrap: wrap;
+ gap: 10px;
+}
+
+.tags-title {}
+
+.tags-list {
+ position: relative;
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: left;
+ align-items: flex-start;
+ width: inherit;
+ height: auto;
+ overflow: hidden;
+}

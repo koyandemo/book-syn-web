@@ -1,0 +1,32 @@
+.home {
+ width: 100%;
+ margin-top: 80px;
+}
+
+.home-board {
+ width: 1300px;
+ height: auto;
+ margin: auto;
+}
+
+.home-collection-picks {
+ position: relative;
+ display: flex;
+ align-items: flex-start;
+ width: inherit;
+ height: 120px;
+ gap: 10px;
+ box-sizing: border-box;
+ margin-bottom: 50px;
+}
+
+@media screen and (max-width : 1350px) {
+
+ .home-board {
+  padding-left: 10px;
+  padding-right: 10px;
+  box-sizing: border-box;
+  width: 100%;
+ }
+
+}

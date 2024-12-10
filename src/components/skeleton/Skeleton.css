@@ -1,0 +1,74 @@
+.skeleton {
+ min-width: 150px;
+ height: 255px;
+ /* background-color: var(--bgTheme); */
+ overflow: hidden;
+ padding-left: 10px;
+ padding-right: 10px;
+ box-sizing: border-box;
+ /* background-size: 200% 100%;
+ animation: 1.5s shine linear infinite; */
+ /* animation: skeleton-loading 5s linear infinite alternate; */
+}
+
+.skeleton-text {
+ width: 15px;
+ height: 5px;
+ margin-top: 30px;
+ background-color: hsl(200, 20%, 95%);
+ background-size: 200% 100%;
+ animation: skeleton-loading 5s linear infinite alternate;
+
+}
+
+.skeleton-des-warp {
+ margin-top: 50px;
+}
+
+.skeleton-des {
+ width: 100%;
+ height: 5px;
+ margin-bottom: 5px;
+ background-color: hsl(200, 20%, 95%);
+ /* animation: skeleton-loading 2s linear infinite alternate; */
+}
+
+.skeleton-icon-warp {
+ margin-top: 40px;
+ display: flex;
+ justify-content: space-between;
+}
+
+.skeleton-icon {
+ width: 13px;
+ height: 15px;
+ background-color: hsl(200, 20%, 95%);
+ animation: skeleton-loading 2s linear infinite alternate;
+}
+
+.skeleton-date {
+ width: 100px;
+ height: 15px;
+ background-color: hsl(200, 20%, 95%);
+ animation: skeleton-loading 2s linear infinite alternate;
+}
+
+@keyframes skeleton-loading {
+ 0% {
+  /* background-color: hsl(200, 20%, 80%); */
+  /* background-color: wheat;
+  visibility: hidden; */
+ }
+
+ 100% {
+  /* background-color: hsl(200, 20%, 95%); */
+  /* background-color: white;
+  visibility: visible; */
+ }
+}
+
+@keyframes shine {
+ to {
+  background-position-x: -200%;
+ }
+}

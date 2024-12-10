@@ -1,0 +1,116 @@
+.quotes{
+ position: fixed;
+ width: 100%;
+ height: 100%;
+ /* background-color: rgba(128, 128, 128, 0.349); */
+/* background-color: black; */
+background-color: var(--bgTheme);
+ color: var(--colorTheme);
+ display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.quotes-banner{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+
+.quotes-infos{
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ width: 800px;
+}
+
+.quotes-infos-quote{
+  text-align: center;
+ font-size: 25px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  line-height: 65px;
+  margin: unset;
+  padding: unset;
+  position: relative;
+  /* font-family: 'Carattere', cursive;
+    font-family: 'Cookie', cursive; */
+}
+
+@media screen and (max-width:500px) {
+  .quotes-infos-quote{
+    font-size: 20px;
+    line-height: 35px;
+  }
+}
+
+@media screen and (max-width:400px) {
+  .quotes-infos-quote {
+    font-size: 18px;
+  }
+}
+
+/* .quotes-infos-quote::after{
+  content: "";
+  display: block;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%,0%);
+  bottom: -20px;
+  width: 50%;
+  height: 2px;
+  border-bottom: 1px solid gray;
+} */
+
+.quotes-infos-author{
+  position: relative;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0.5px;
+  position: relative;
+  margin: unset;
+  padding: unset;
+  margin-top: 80px;
+  text-transform: capitalize;
+  /* align-self: flex-end; */
+}
+
+
+
+.quotes-infos-author::before{
+  position: absolute;
+  left: -60px;
+  top: 10px;
+  width: 50px;
+  content: "";
+  height: 1px;
+  background-color: gray;
+}
+
+.quotes-infos-author::after {
+  position: absolute;
+  right: -59px;
+  top: 10px;
+  width: 50px;
+  content: "";
+  height: 1px;
+  background-color: gray;
+}
+
+.quotes-action{
+  position: absolute;
+  bottom: 10px;
+}
+
+/* .quotes-infos-author::after {
+  position: absolute;
+  right: -110px;
+  top: 10px;
+  width: 100px;
+  content: "";
+  height: 1px;
+  background-color: gray;
+} */
