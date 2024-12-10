@@ -1,5 +1,5 @@
 
-export const API_POINT ="https://book-syn-api-szma.vercel.app/"
+export const API_POINT ="https://book-syn-api.vercel.app/"
 // export const API_POINT = "http://localhost:5001/"
 // export const API_POINT = "http://localhost:5001/"
 // export const IMG_POINT ="https://booksites.github.io"
