@@ -1,5 +1,4 @@
 import { Title } from "solid-start";
-// import { HttpStatusCode } from "solid-start/server";
 import ErrorHandlingPage from '../components/errorhandling/ErrorHandlingPage'
 
 export default function NotFound() {
