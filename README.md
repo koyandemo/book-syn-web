@@ -1,30 +1,61 @@
-# SolidStart
 
-Everything you need to build a Solid project, powered by [`solid-start`](https://start.solidjs.com);
+# Collections Book
 
-## Creating a project
+Programming book collections
+
+
+
+## Authors
+
+- [@waiyan](https://github.com/koyandemo)
+
+
+## 🚀 About Me
+My name is Wai Yan.I am frontend developer.This project is a collection for programming books.I used SolidStart for frontend and backend for Nodejs.
+
+
+## Tech Stack
+
+**Client:** StartSolid,Css
+
+**Server:** Node, Express
+
+
+## Run Locally
+
+Clone the project
 
 ```bash
-# create a new project in the current directory
-npm init solid@latest
-
-# create a new project in my-app
-npm init solid@latest my-app
+  git clone https://github.com/koyandemo/book-syn-web
 ```
 
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+Go to the project directory
 
 ```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
+  cd book-syn-web
 ```
 
-## Building
+Install dependencies
 
-Solid apps are built with _adapters_, which optimise your project for deployment to different environments.
+```bash
+  yarn install
+```
 
-By default, `npm run build` will generate a Node app that you can run with `npm start`. To use a different adapter, add it to the `devDependencies` in `package.json` and specify in your `vite.config.js`.
+Start the application
+
+```bash
+  yarn dev
+```
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at koyannote2180@gmail.com
+
+
+## Acknowledgements
+
+ - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+
