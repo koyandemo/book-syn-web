@@ -12,7 +12,7 @@ Programming book collections
 
 ## 🚀 About Me
 My name is Wai Yan.I am frontend developer.This project is a collection for programming books.I used SolidStart for frontend and backend for Nodejs.
-
+I store images in github.io and pdf files are store in Firebase storage.
 
 ## Tech Stack
 
